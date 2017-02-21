@@ -1,6 +1,6 @@
-### # Redux-saga implementation of redux-react-starter
+### Simple-react-redux-saga
 
-`redux`, `react`, `hot-reloading`, `async function` and some other great stuffs.
+`redux`, `react`, `redux-saga` `hot-reloading` and some other great stuffs.
 
 ## How to
 
@@ -72,4 +72,5 @@ webpack                           2.2.0
 webpack-dev-server                2.2.0-rc.0
 ```
 ## redux-react-starter
+#didierfranc
 [redux-react-starter](https://github.com/didierfranc/redux-react-starter)
