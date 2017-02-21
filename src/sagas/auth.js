@@ -20,7 +20,3 @@ function* auth() {
 
 export default auth
 
-  // const token = getState().user.token
-
-  // if (typeof token === 'undefined') return
-
