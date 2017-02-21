@@ -1,4 +1,4 @@
-### [LMS]
+### # Redux-saga implementation of redux-react-starter
 
 `redux`, `react`, `hot-reloading`, `async function` and some other great stuffs.
 
@@ -71,3 +71,5 @@ react-test-renderer               15.4.1
 webpack                           2.2.0
 webpack-dev-server                2.2.0-rc.0
 ```
+## redux-react-starter
+[redux-react-starter](https://github.com/didierfranc/redux-react-starter)
